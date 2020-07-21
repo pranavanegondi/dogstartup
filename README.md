@@ -1,1 +1,1 @@
-# dogstartup
+TinDog Starting Files
